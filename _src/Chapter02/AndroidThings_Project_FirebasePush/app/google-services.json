@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "203281404669",
+    "firebase_url": "https://androidthings-notification.firebaseio.com",
+    "project_id": "androidthings-notification",
+    "storage_bucket": "androidthings-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203281404669:android:a71ceb7e17bee4cc",
+        "android_client_info": {
+          "package_name": "androidthings.project.alarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203281404669-rj6ph9f5otiu5lc9rp9192on4t3fiep3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPgKyA_x_L0n0oUl6FYbjtc4s1jsKq6fQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
